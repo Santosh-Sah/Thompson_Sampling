@@ -20,7 +20,7 @@ def visualisingThompsonSamplingResult():
     plt.xlabel('Advertisement')
     plt.ylabel('Number of times each advertisement was selected')
     
-    plt.savefig("Upper_Confidence_Bound_result.png")
+    plt.savefig("Thompson_Sampling_result.png")
     
     plt.show()
 
